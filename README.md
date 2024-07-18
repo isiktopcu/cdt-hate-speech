@@ -1,0 +1,1 @@
+This repository contains hate speech annotation & models and analysis for the general elections scheduled for November 5, 2024 in the USA. Presented by the Ford Institute for Human Security, Koç University Center for Computational Sciences Politus Analytics and Pittsburgh University. 
